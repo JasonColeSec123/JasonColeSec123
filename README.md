@@ -10,3 +10,6 @@ I'm passionate about uncovering digital footprints, understanding how data is ex
 - 🎯 **Bug Bounty Hunting** – Helping secure platforms while sharpening my skills.  
 - 🕵️‍♂️ **Threat Intelligence** – Analyzing patterns, behaviors, and indicators of compromise.  
 - 📜 **CTF Player** – Breaking into fun (legal) cybersecurity challenges.  
+
+## 🚀 Latest Project  
+🔗 **[porticoCTF](https://github.com/JasonColeSec/porticoCTF)** – A must-see project for anyone interested in cybersecurity challenges.  
